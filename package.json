@@ -54,10 +54,10 @@
   },
   "type": "module",
   "dependencies": {
-    "@myunisoft/httpie": "^1.9.2",
+    "@myunisoft/httpie": "^4.0.1",
     "@nodesecure/github": "^1.2.0",
-    "@nodesecure/npm-registry-sdk": "^1.4.0",
-    "@npmcli/arborist": "^5.6.1",
+    "@nodesecure/npm-registry-sdk": "^3.0.0",
+    "@npmcli/arborist": "^7.5.0",
     "semver": "^7.3.7"
   },
   "tsd": {
